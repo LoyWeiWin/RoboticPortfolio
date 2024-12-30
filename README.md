@@ -1,7 +1,9 @@
 # RoboticPortfolio
-Technical Proficiency: Rhinoceros 3D, 3D Grasshopper, Python, C#, RobotStudio, RTDE, Arduino IDE, Cura / Flashprint, Augmented Reality. 
+**Technical Proficiency:**
+Rhinoceros 3D, 3D Grasshopper, Python, C#, RobotStudio, RTDE, Arduino IDE, Cura / Flashprint, Augmented Reality. 
 
-Hardware: Collaborative Robots (UR5, UR10, UR16e annd ABB GoFA); 3D Printing: Flashforge / Ultimaker; Laser Cutting: Trotec.
+**Hardware:**
+Collaborative Robots (UR5, UR10, UR16e annd ABB GoFA); 3D Printing: Flashforge / Ultimaker; Laser Cutting: Trotec.
 
 ### Education
 - Ph.D., Interaction Design | Queensland University of Technology (QUT) (on-going)
@@ -24,7 +26,8 @@ Create a robotic weaving routine to construct carbon fibre panels.
 - Design a customised end effector for the research project
 
 ### Projects
-EEG Band Discovery
+- Github Repo for Architectural Design-Fabrication
+- Github Repoo for Real-time Interaction
 
 ### Talks & Lectures
 - Industry Engagement: BVN, May 2024
