@@ -6,9 +6,9 @@ Rhinoceros 3D, 3D Grasshopper, Python, C#, RobotStudio, RTDE, Arduino IDE, Cura 
 Collaborative Robots (UR5, UR10, UR16e annd ABB GoFA); 3D Printing: Flashforge / Ultimaker; Laser Cutting: Trotec.
 
 ### Education
-- Ph.D., Interaction Design | Queensland University of Technology (QUT) (on-going)
-- MArch., Architecture | University Queensland (UQ) (2019)
-- BArch., Architectural Design | University Queensland (UQ) (2017)
+- Ph.D., Interaction Design - Queensland University of Technology (QUT) (on-going)
+- MArch., Architecture - University Queensland (UQ) (2019)
+- BArch., Architectural Design - University Queensland (UQ) (2017)
 
 ### Work Experience
 **Research Fellow** @ Bond University (August 2024 - Present)
