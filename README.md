@@ -9,7 +9,7 @@ Hardware: Collaborative Robots (UR5, UR10, UR16e annd ABB GoFA); 3D Printing: Fl
 - BArch., Architectural Design | University Queensland (UQ) (2017)
 
 ### Work Experience
-Research Fellow @ Bond University (August 2024 - Present)
+**Research Fellow** @ Bond University (August 2024 - Present)
 - Creating documentation for the robotic weaving process.
 - Conducting compression test for the constructed coreless panels.
 - Design and construct end effector with the relevant components.
@@ -17,7 +17,7 @@ Research Fellow @ Bond University (August 2024 - Present)
 adhered to design parameters (include robot workspace).
 Create a robotic weaving routine to construct carbon fibre panels. 
   
-Research Assistant @ Queensland University of Technology (December 2023 - June 2024)
+**Research Assistant** @ Queensland University of Technology (December 2023 - June 2024)
 - Creating a close-loop real-time HRI system using Grasshopper
 - Provide technical assistance throughout research study
 - Create documentation to assist the lead researcher
